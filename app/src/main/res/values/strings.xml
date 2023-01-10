@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Program_Functions</string>
+    <string name="click_on_me">CLick on me</string>
+    <string name="str_pr2">Введите сообщение</string>
+    <string name="str_btn_pr2">Отправить</string>
+    <string name="back">Назад</string>
+    <string name="enter_txt">Введенный текст:</string>
+    <string name="name">Name</string>
+    <string name="txt">Text</string>
+</resources>

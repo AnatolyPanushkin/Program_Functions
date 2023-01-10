@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginHorizontal">10dp</dimen>
+    <dimen name="text_btn_size">23sp</dimen>
+    <dimen name="paddingOverall">5dp</dimen>
+    <dimen name="marginVertical">5dp</dimen>
+</resources>
